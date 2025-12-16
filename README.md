@@ -34,7 +34,7 @@ All in all, it was a really enjoyable project to make, and it showed me how fun 
 ## Game Design Project
 - [Game Design Project](https://github.com/aiogova/Cooking-for-the-Common-Good)
 
-I created this project in my game design class during my sophomore year of college. As part of a team, I worked on developing a game aimed at contributing to the common good. Our team created an educational game focused on eating disorders and healthy ways to address them, titled "Cooking for the Common Good".
+I created this project in my game design class during my sophomore year of college. As part of a team, I worked on developing a game aimed at contributing to the common good, which is St. Thomas's mission. Our team created an educational game focused on eating disorders and healthy ways to address them, titled "Cooking for the Common Good".
 
 The game was developed in GameMaker using GML (GameMaker Language). I served as the sole programmer on the team, while my teammates were responsible for art and sound design. Working on a collaborative project of this scope gave me valuable experience in communication, teamwork, and time management, as well as an understanding of how different roles contribute to a shared creative goal.
 
