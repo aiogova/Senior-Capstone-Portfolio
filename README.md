@@ -13,6 +13,12 @@ This is a portfolio of a few projects that I've made over my years at the Univer
 ## Personal Website Project
 - [Personal Website Project](https://github.com/aiogova/aiogova.github.io)
 
+I created this project for my web development class during my senior year of college. It is a personal website consisting of a home page, projects page, resume page, and a “fun stuff” page. Built using HTML and CSS, this site was designed to serve as a professional online presence that I could share with potential employers.
+
+In addition to implementing the technical aspects of front-end development, I focused heavily on organization, clarity, and usability. The layout and navigation were intentionally kept simple to make it easy for recruiters to quickly find relevant information, such as my projects and resume. This project allowed me to practice structuring content effectively, applying consistent styling across multiple pages, and thinking critically about how design choices impact user experience.
+
+This was my first project in my web development class, but it provides a foundation that I can continue to expand and refine as I gain more experience and add new projects to my portfolio.
+
 ## Creative Coding Project
 - [Creative Coding Project](https://github.com/aiogova/Hamster-Escape)
 
