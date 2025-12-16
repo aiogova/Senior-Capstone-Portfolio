@@ -31,7 +31,7 @@ We made the game in GameMaker, using GML (GameMaker Language) to write the code.
 
 Being the sole programmer for this entire project also gave me a lot of hands-on programming experience. It would sometimes get frustrating whenever I'd get stuck or something wasn't working, but figuring out how to get something to work the way we wanted was always so rewarding. I had to do a lot of playtesting and debugging, which further enhanced my technical skills. 
 
-All in all, this project gave me lots of experience in both my technical skills and my soft skills.
+Challenging yet rewarding, this project gave me lots of experience in both my technical skills and my soft skills.
 
 ## Game Production Project
 - [Game Production Project](https://github.com/aiogova/Carrying-Anxiety)
