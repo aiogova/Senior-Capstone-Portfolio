@@ -19,9 +19,10 @@ In addition to implementing the technical aspects of front-end development, I fo
 
 This was my first project in my web development class, but it provides a foundation that I can continue to expand and refine as I gain more experience and add new projects to my portfolio.
 
+I chose to highlight this project because it represents my growth as a student nearing graduation and my transition toward a professional career. This website brings together my technical skills, design decisions, and ability to present myself clearly and intentionally to others. It serves as a central hub for my work and reflects how I want to represent myself as a developer and creative professional.
+
 ## Creative Coding Project
 - [Creative Coding Project](https://github.com/aiogova/Hamster-Escape)
-
 
 I created this project during my freshman year in a creative coding course. At the time, I was still early in my programming journey and learning many concepts for the first time. I was simultaneously taking my first object-oriented Java course (CISC 230), which meant I was often applying newly learned ideas as I went. Despite the challenges, this project was an enjoyable and formative experience.
 
@@ -30,6 +31,8 @@ The creative coding class was really fun, and it showed me how programming can b
 For my project, I made a game called "Hamster Escape", in which the player controls a hamster attempting to avoid incoming cat paws. Inspired by Flappy Bird, the gameplay involves moving the hamster up and down to dodge obstacles. The movement of the cat paws is randomized using Perlin noise, adding variation and unpredictability to each playthrough. I love hamsters, and I love video games, so this game just felt like the right choice for my project. It's not meant to be taken too seriously, as it is a silly and fun little game. 
 
 All in all, it was a really enjoyable project to make, and it showed me how fun programming can be and how it can be used in entertainment.
+
+I included this project because it represents an early and important moment in my academic journey, when I first realized that programming could be creative and expressive. This project helped shape my interest in using programming in creative ways, and it highlights my willingness to experiment and learn new concepts early on. Looking back, it serves as a foundation for many of the skills and interests that appear in my later projects.
 
 ## Game Design Project
 - [Game Design Project](https://github.com/aiogova/Cooking-for-the-Common-Good)
@@ -42,6 +45,8 @@ As the sole programmer on the team, being responsible for all programming aspect
 
 Overall, this project was both challenging and rewarding, and it played an important role in developing my technical programming skills alongside essential collaboration and communication skills.
 
+I chose to include this project because it was my first large-scale collaborative game project and a major step in developing both my technical and interpersonal skills. It reflects my ability to take on responsibility as the sole programmer while working closely with teammates in other disciplines. Additionally, the project aligns strongly with the University of St. Thomas' mission by using game design as a way to promote awareness and encourage meaningful conversations around eating disorders.
+
 ## Game Production Project
 - [Game Production Project](https://github.com/aiogova/Carrying-Anxiety)
 
@@ -50,3 +55,5 @@ I made this project in my game production class, also during my sophomore year o
 Once again, I was the sole programmer on my team, while my teammates were in charge of art and sound design. We made the project in GameMaker using GML again. Because I had already gone through a similar collaborative development process in my game design project, this project allowed me to build upon and refine the skills I had previously developed rather than learning them from scratch. I approached communication, collaboration, and time management with greater confidence and professionalism.
 
 From a technical standpoint, this project further strengthened my programming skills in GameMaker using GML. While many of the core concepts were familiar, I was able to apply them more efficiently and thoughtfully, spending less time learning fundamentals and more time improving structure, debugging, and playtesting. Overall, this project reinforced and deepened both my technical and interpersonal skills, demonstrating clear growth from my earlier game design experience.
+
+I included this project because it demonstrates clear growth from my earlier game design experience and shows how I refined skills I had already begun developing. This project allowed me to approach collaboration, communication, and programming with greater confidence and professionalism. In addition, the project aligns closely with the University of St. Thomas' mission of contributing to the common good by using an interactive medium to promote empathy and understanding around social anxiety. Together, these elements make this project a strong representation of both my technical development and my values as a student and creator.
