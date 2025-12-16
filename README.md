@@ -22,9 +22,12 @@ This was my first project in my web development class, but it provides a foundat
 ## Creative Coding Project
 - [Creative Coding Project](https://github.com/aiogova/Hamster-Escape)
 
-I created this project during the second semester of my freshman year of college in my creative coding class. I still didn't know all that much about programming when I made it, but I had a lot of fun along the way. I was actually taking my first object-oriented Java class (CISC 230) at the same time as I took the creative coding course, so I was learning new concepts on the fly. The creative coding class was really fun, and it showed me how programming can be used in creative and artistic fields. We are so used to programming being used functionally, but this class opened my eyes to programming being used creatively and artistically. I didn't know that programming could be an art form. 
 
-For my project, I made a game called "Hamster Escape", where you play as a hamster trying to escape cat paws. It was inspired by Flappy Bird, as the hamster is like the bird, and the cat paws are like the pillars. The cat paws move randomly due to the use of Perlin noise, and you have to move the hamster up and down to dodge them. I love hamsters, and I love video games, so this game just felt like the right choice for my project. It's not meant to be taken too seriously, as it is just a silly and fun little game. 
+I created this project during my freshman year in a creative coding course. At the time, I was still early in my programming journey and learning many concepts for the first time. I was simultaneously taking my first object-oriented Java course (CISC 230), which meant I was often applying newly learned ideas as I went. Despite the challenges, this project was an enjoyable and formative experience.
+
+The creative coding class was really fun, and it showed me how programming can be used in creative and artistic fields. We are so used to programming being used functionally, but this class opened my eyes to programming being used creatively and artistically. I didn't realize that programming could be an art form. 
+
+For my project, I made a game called "Hamster Escape", in which the player controls a hamster attempting to avoid incoming cat paws. Inspired by Flappy Bird, the gameplay involves moving the hamster up and down to dodge obstacles. The movement of the cat paws is randomized using Perlin noise, adding variation and unpredictability to each playthrough. I love hamsters, and I love video games, so this game just felt like the right choice for my project. It's not meant to be taken too seriously, as it is a silly and fun little game. 
 
 All in all, it was a really enjoyable project to make, and it showed me how fun programming can be and how it can be used in entertainment.
 
